@@ -8,11 +8,17 @@ namespace ErenDenemeProje1
 {
     public class Sehirler
     {
+
         public int SehirId { get; set; }
+
         public string SehirAdi { get; set; }
+
         public string CografiBolge { get; set; }
 
+
         public int ilcesayisi { get; set; }
+
+
         public string PlakaNo 
         {
             get 
